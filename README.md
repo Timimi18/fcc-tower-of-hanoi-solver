@@ -17,3 +17,5 @@ This project was built to satisfy 100% of the advanced algorithmic requirements 
 ## 📂 Code Layout Map
 * `main.py`: The production library housing the recursive `hanoi_solver` execution engine.
 * `README.md`: Advanced configuration specs and administrative tracking document.
+
+See also: [reanalysis of my undergraduate thesis data](https://github.com/Timimi18/yam-peel-adsorption-analysis)
